@@ -9,7 +9,7 @@
 - **JavaScript**: A sample JavaScript file that can be expanded to add dynamic functionality.
 
 ## Project Structure
-html-css-js-demo/ │ ├── index.html # Main HTML file ├── styles.css # External CSS file for styling ├── script.js # External JavaScript file for interactivity └── README.md # This file (Project description and documentation)
+HTML-CSS-JS-Demo/ │ ├── index.html # Main HTML file ├── styles.css # External CSS file for styling ├── script.js # External JavaScript file for interactivity └── README.md # This file (Project description and documentation)
 
 ## Getting Started
 
@@ -17,12 +17,12 @@ To get started with this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/html-css-js-demo.git
+   git clone https://github.com/mdkeum/HTML-CSS-JS-Demo.git
    ```
    
 2. **Navigate to the project folder**:
   ```
-  cd html-css-js-demo
+  cd HTML-CSS-JS-Demo
   ```
 3. **Open the index.html file in your browser**:
 
